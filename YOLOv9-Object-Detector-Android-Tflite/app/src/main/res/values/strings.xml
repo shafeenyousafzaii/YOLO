@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">YoloV9 Tflite</string>
+    <string name="app_name">Object Detection</string>
     <string name="gpu">GPU</string>
-    <string name="yolov9_object_detect">YoloV9 Object Detection</string>
+    <string name="yolov9_object_detect">Yolo Object Detection</string>
 </resources>
